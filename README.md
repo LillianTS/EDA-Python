@@ -10,10 +10,6 @@ This repository contains a Jupyter Notebook (`EDA_python.ipynb`) that performs e
 2. [Dataset Description](#dataset-description)
 3. [Environment and Dependencies](#environment-and-dependencies)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Notebook Structure](#notebook-structure)
-7. [Results and Insights](#results-and-insights)
-8. [License](#license)
 
 ---
 
